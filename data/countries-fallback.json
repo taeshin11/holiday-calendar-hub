@@ -1,0 +1,222 @@
+[
+  {
+    "code": "US",
+    "name": { "en": "United States", "ko": "미국", "ja": "アメリカ合衆国", "zh": "美国", "es": "Estados Unidos", "fr": "États-Unis", "de": "Vereinigte Staaten", "pt": "Estados Unidos" },
+    "flag": "🇺🇸",
+    "region": "Americas",
+    "capital": "Washington, D.C.",
+    "currency": "USD",
+    "timezone": "UTC-5 to UTC-10",
+    "totalHolidaysPerYear": 11,
+    "workingHoursCulture": "40 hours/week, work-life balance varies"
+  },
+  {
+    "code": "GB",
+    "name": { "en": "United Kingdom", "ko": "영국", "ja": "イギリス", "zh": "英国", "es": "Reino Unido", "fr": "Royaume-Uni", "de": "Vereinigtes Königreich", "pt": "Reino Unido" },
+    "flag": "🇬🇧",
+    "region": "Europe",
+    "capital": "London",
+    "currency": "GBP",
+    "timezone": "UTC+0",
+    "totalHolidaysPerYear": 8,
+    "workingHoursCulture": "37-40 hours/week, growing work-life balance culture"
+  },
+  {
+    "code": "CA",
+    "name": { "en": "Canada", "ko": "캐나다", "ja": "カナダ", "zh": "加拿大", "es": "Canadá", "fr": "Canada", "de": "Kanada", "pt": "Canadá" },
+    "flag": "🇨🇦",
+    "region": "Americas",
+    "capital": "Ottawa",
+    "currency": "CAD",
+    "timezone": "UTC-3.5 to UTC-8",
+    "totalHolidaysPerYear": 11,
+    "workingHoursCulture": "37-40 hours/week, good work-life balance"
+  },
+  {
+    "code": "AU",
+    "name": { "en": "Australia", "ko": "호주", "ja": "オーストラリア", "zh": "澳大利亚", "es": "Australia", "fr": "Australie", "de": "Australien", "pt": "Austrália" },
+    "flag": "🇦🇺",
+    "region": "Oceania",
+    "capital": "Canberra",
+    "currency": "AUD",
+    "timezone": "UTC+8 to UTC+11",
+    "totalHolidaysPerYear": 12,
+    "workingHoursCulture": "38 hours/week, strong work-life balance culture"
+  },
+  {
+    "code": "JP",
+    "name": { "en": "Japan", "ko": "일본", "ja": "日本", "zh": "日本", "es": "Japón", "fr": "Japon", "de": "Japan", "pt": "Japão" },
+    "flag": "🇯🇵",
+    "region": "Asia",
+    "capital": "Tokyo",
+    "currency": "JPY",
+    "timezone": "UTC+9",
+    "totalHolidaysPerYear": 16,
+    "workingHoursCulture": "40-50 hours/week, improving work-life balance"
+  },
+  {
+    "code": "KR",
+    "name": { "en": "South Korea", "ko": "대한민국", "ja": "韓国", "zh": "韩国", "es": "Corea del Sur", "fr": "Corée du Sud", "de": "Südkorea", "pt": "Coreia do Sul" },
+    "flag": "🇰🇷",
+    "region": "Asia",
+    "capital": "Seoul",
+    "currency": "KRW",
+    "timezone": "UTC+9",
+    "totalHolidaysPerYear": 11,
+    "workingHoursCulture": "40-52 hours/week, improving but still demanding"
+  },
+  {
+    "code": "DE",
+    "name": { "en": "Germany", "ko": "독일", "ja": "ドイツ", "zh": "德国", "es": "Alemania", "fr": "Allemagne", "de": "Deutschland", "pt": "Alemanha" },
+    "flag": "🇩🇪",
+    "region": "Europe",
+    "capital": "Berlin",
+    "currency": "EUR",
+    "timezone": "UTC+1",
+    "totalHolidaysPerYear": 9,
+    "workingHoursCulture": "35-40 hours/week, excellent work-life balance"
+  },
+  {
+    "code": "FR",
+    "name": { "en": "France", "ko": "프랑스", "ja": "フランス", "zh": "法国", "es": "Francia", "fr": "France", "de": "Frankreich", "pt": "França" },
+    "flag": "🇫🇷",
+    "region": "Europe",
+    "capital": "Paris",
+    "currency": "EUR",
+    "timezone": "UTC+1",
+    "totalHolidaysPerYear": 11,
+    "workingHoursCulture": "35 hours/week (legal maximum), excellent work-life balance"
+  },
+  {
+    "code": "ES",
+    "name": { "en": "Spain", "ko": "스페인", "ja": "スペイン", "zh": "西班牙", "es": "España", "fr": "Espagne", "de": "Spanien", "pt": "Espanha" },
+    "flag": "🇪🇸",
+    "region": "Europe",
+    "capital": "Madrid",
+    "currency": "EUR",
+    "timezone": "UTC+1",
+    "totalHolidaysPerYear": 14,
+    "workingHoursCulture": "40 hours/week, siesta culture in some regions"
+  },
+  {
+    "code": "BR",
+    "name": { "en": "Brazil", "ko": "브라질", "ja": "ブラジル", "zh": "巴西", "es": "Brasil", "fr": "Brésil", "de": "Brasilien", "pt": "Brasil" },
+    "flag": "🇧🇷",
+    "region": "Americas",
+    "capital": "Brasília",
+    "currency": "BRL",
+    "timezone": "UTC-2 to UTC-5",
+    "totalHolidaysPerYear": 14,
+    "workingHoursCulture": "44 hours/week, family-oriented culture"
+  },
+  {
+    "code": "IN",
+    "name": { "en": "India", "ko": "인도", "ja": "インド", "zh": "印度", "es": "India", "fr": "Inde", "de": "Indien", "pt": "Índia" },
+    "flag": "🇮🇳",
+    "region": "Asia",
+    "capital": "New Delhi",
+    "currency": "INR",
+    "timezone": "UTC+5:30",
+    "totalHolidaysPerYear": 17,
+    "workingHoursCulture": "48 hours/week, varies by sector"
+  },
+  {
+    "code": "CN",
+    "name": { "en": "China", "ko": "중국", "ja": "中国", "zh": "中国", "es": "China", "fr": "Chine", "de": "China", "pt": "China" },
+    "flag": "🇨🇳",
+    "region": "Asia",
+    "capital": "Beijing",
+    "currency": "CNY",
+    "timezone": "UTC+8",
+    "totalHolidaysPerYear": 7,
+    "workingHoursCulture": "40-60 hours/week, 996 culture in tech"
+  },
+  {
+    "code": "MX",
+    "name": { "en": "Mexico", "ko": "멕시코", "ja": "メキシコ", "zh": "墨西哥", "es": "México", "fr": "Mexique", "de": "Mexiko", "pt": "México" },
+    "flag": "🇲🇽",
+    "region": "Americas",
+    "capital": "Mexico City",
+    "currency": "MXN",
+    "timezone": "UTC-6",
+    "totalHolidaysPerYear": 7,
+    "workingHoursCulture": "48 hours/week, family-oriented"
+  },
+  {
+    "code": "IT",
+    "name": { "en": "Italy", "ko": "이탈리아", "ja": "イタリア", "zh": "意大利", "es": "Italia", "fr": "Italie", "de": "Italien", "pt": "Itália" },
+    "flag": "🇮🇹",
+    "region": "Europe",
+    "capital": "Rome",
+    "currency": "EUR",
+    "timezone": "UTC+1",
+    "totalHolidaysPerYear": 11,
+    "workingHoursCulture": "36-40 hours/week, work-life balance important"
+  },
+  {
+    "code": "NL",
+    "name": { "en": "Netherlands", "ko": "네덜란드", "ja": "オランダ", "zh": "荷兰", "es": "Países Bajos", "fr": "Pays-Bas", "de": "Niederlande", "pt": "Países Baixos" },
+    "flag": "🇳🇱",
+    "region": "Europe",
+    "capital": "Amsterdam",
+    "currency": "EUR",
+    "timezone": "UTC+1",
+    "totalHolidaysPerYear": 11,
+    "workingHoursCulture": "32-36 hours/week, excellent work-life balance"
+  },
+  {
+    "code": "SG",
+    "name": { "en": "Singapore", "ko": "싱가포르", "ja": "シンガポール", "zh": "新加坡", "es": "Singapur", "fr": "Singapour", "de": "Singapur", "pt": "Singapura" },
+    "flag": "🇸🇬",
+    "region": "Asia",
+    "capital": "Singapore",
+    "currency": "SGD",
+    "timezone": "UTC+8",
+    "totalHolidaysPerYear": 11,
+    "workingHoursCulture": "44-50 hours/week, productivity-focused"
+  },
+  {
+    "code": "NZ",
+    "name": { "en": "New Zealand", "ko": "뉴질랜드", "ja": "ニュージーランド", "zh": "新西兰", "es": "Nueva Zelanda", "fr": "Nouvelle-Zélande", "de": "Neuseeland", "pt": "Nova Zelândia" },
+    "flag": "🇳🇿",
+    "region": "Oceania",
+    "capital": "Wellington",
+    "currency": "NZD",
+    "timezone": "UTC+12",
+    "totalHolidaysPerYear": 11,
+    "workingHoursCulture": "40 hours/week, excellent work-life balance"
+  },
+  {
+    "code": "SE",
+    "name": { "en": "Sweden", "ko": "스웨덴", "ja": "スウェーデン", "zh": "瑞典", "es": "Suecia", "fr": "Suède", "de": "Schweden", "pt": "Suécia" },
+    "flag": "🇸🇪",
+    "region": "Europe",
+    "capital": "Stockholm",
+    "currency": "SEK",
+    "timezone": "UTC+1",
+    "totalHolidaysPerYear": 13,
+    "workingHoursCulture": "40 hours/week, world-class work-life balance"
+  },
+  {
+    "code": "NO",
+    "name": { "en": "Norway", "ko": "노르웨이", "ja": "ノルウェー", "zh": "挪威", "es": "Noruega", "fr": "Norvège", "de": "Norwegen", "pt": "Noruega" },
+    "flag": "🇳🇴",
+    "region": "Europe",
+    "capital": "Oslo",
+    "currency": "NOK",
+    "timezone": "UTC+1",
+    "totalHolidaysPerYear": 12,
+    "workingHoursCulture": "37-40 hours/week, excellent work-life balance"
+  },
+  {
+    "code": "DK",
+    "name": { "en": "Denmark", "ko": "덴마크", "ja": "デンマーク", "zh": "丹麦", "es": "Dinamarca", "fr": "Danemark", "de": "Dänemark", "pt": "Dinamarca" },
+    "flag": "🇩🇰",
+    "region": "Europe",
+    "capital": "Copenhagen",
+    "currency": "DKK",
+    "timezone": "UTC+1",
+    "totalHolidaysPerYear": 12,
+    "workingHoursCulture": "37 hours/week, among best work-life balance globally"
+  }
+]
