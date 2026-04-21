@@ -3,344 +3,1688 @@
     "countryCode": "US",
     "countryName": "United States",
     "holidays": [
-      {"date": "2025-01-01", "name": "New Year's Day", "description": "First day of the Gregorian calendar year", "isNational": true, "isOptional": false},
-      {"date": "2025-01-20", "name": "Martin Luther King Jr. Day", "description": "Celebrates the life of civil rights leader Dr. Martin Luther King Jr.", "isNational": true, "isOptional": false},
-      {"date": "2025-02-17", "name": "Presidents' Day", "description": "Honors all U.S. presidents, including Washington and Lincoln", "isNational": true, "isOptional": false},
-      {"date": "2025-05-26", "name": "Memorial Day", "description": "Honors military personnel who have died in service", "isNational": true, "isOptional": false},
-      {"date": "2025-06-19", "name": "Juneteenth", "description": "Commemorates the emancipation of enslaved African Americans", "isNational": true, "isOptional": false},
-      {"date": "2025-07-04", "name": "Independence Day", "description": "Celebrates the Declaration of Independence", "isNational": true, "isOptional": false},
-      {"date": "2025-09-01", "name": "Labor Day", "description": "Celebrates the social and economic achievements of workers", "isNational": true, "isOptional": false},
-      {"date": "2025-10-13", "name": "Columbus Day", "description": "Commemorates Christopher Columbus's arrival in the Americas", "isNational": true, "isOptional": false},
-      {"date": "2025-11-11", "name": "Veterans Day", "description": "Honors military veterans", "isNational": true, "isOptional": false},
-      {"date": "2025-11-27", "name": "Thanksgiving Day", "description": "Day of giving thanks for the blessings of the harvest", "isNational": true, "isOptional": false},
-      {"date": "2025-12-25", "name": "Christmas Day", "description": "Celebrates the birth of Jesus Christ", "isNational": true, "isOptional": false}
+      {
+        "date": "2026-01-01",
+        "name": "New Year's Day",
+        "description": "First day of the Gregorian calendar year",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-01-20",
+        "name": "Martin Luther King Jr. Day",
+        "description": "Celebrates the life of civil rights leader Dr. Martin Luther King Jr.",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-02-17",
+        "name": "Presidents' Day",
+        "description": "Honors all U.S. presidents, including Washington and Lincoln",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-05-26",
+        "name": "Memorial Day",
+        "description": "Honors military personnel who have died in service",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-06-19",
+        "name": "Juneteenth",
+        "description": "Commemorates the emancipation of enslaved African Americans",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-07-04",
+        "name": "Independence Day",
+        "description": "Celebrates the Declaration of Independence",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-09-01",
+        "name": "Labor Day",
+        "description": "Celebrates the social and economic achievements of workers",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-10-13",
+        "name": "Columbus Day",
+        "description": "Commemorates Christopher Columbus's arrival in the Americas",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-11-11",
+        "name": "Veterans Day",
+        "description": "Honors military veterans",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-11-27",
+        "name": "Thanksgiving Day",
+        "description": "Day of giving thanks for the blessings of the harvest",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Christmas Day",
+        "description": "Celebrates the birth of Jesus Christ",
+        "isNational": true,
+        "isOptional": false
+      }
     ]
   },
   {
     "countryCode": "GB",
     "countryName": "United Kingdom",
     "holidays": [
-      {"date": "2025-01-01", "name": "New Year's Day", "description": "First day of the year", "isNational": true, "isOptional": false},
-      {"date": "2025-01-02", "name": "New Year's Day (Scotland)", "description": "Additional New Year holiday in Scotland", "isNational": false, "isOptional": false},
-      {"date": "2025-04-18", "name": "Good Friday", "description": "Commemorates the crucifixion of Jesus Christ", "isNational": true, "isOptional": false},
-      {"date": "2025-04-21", "name": "Easter Monday", "description": "The day after Easter Sunday", "isNational": true, "isOptional": false},
-      {"date": "2025-05-05", "name": "Early May Bank Holiday", "description": "First Monday of May bank holiday", "isNational": true, "isOptional": false},
-      {"date": "2025-05-26", "name": "Spring Bank Holiday", "description": "Last Monday of May bank holiday", "isNational": true, "isOptional": false},
-      {"date": "2025-08-25", "name": "Summer Bank Holiday", "description": "Last Monday of August bank holiday", "isNational": true, "isOptional": false},
-      {"date": "2025-12-25", "name": "Christmas Day", "description": "Celebrates the birth of Jesus Christ", "isNational": true, "isOptional": false},
-      {"date": "2025-12-26", "name": "Boxing Day", "description": "Day after Christmas", "isNational": true, "isOptional": false}
+      {
+        "date": "2026-01-01",
+        "name": "New Year's Day",
+        "description": "First day of the year",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-01-02",
+        "name": "New Year's Day (Scotland)",
+        "description": "Additional New Year holiday in Scotland",
+        "isNational": false,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-18",
+        "name": "Good Friday",
+        "description": "Commemorates the crucifixion of Jesus Christ",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-21",
+        "name": "Easter Monday",
+        "description": "The day after Easter Sunday",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-05-05",
+        "name": "Early May Bank Holiday",
+        "description": "First Monday of May bank holiday",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-05-26",
+        "name": "Spring Bank Holiday",
+        "description": "Last Monday of May bank holiday",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-08-25",
+        "name": "Summer Bank Holiday",
+        "description": "Last Monday of August bank holiday",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Christmas Day",
+        "description": "Celebrates the birth of Jesus Christ",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-26",
+        "name": "Boxing Day",
+        "description": "Day after Christmas",
+        "isNational": true,
+        "isOptional": false
+      }
     ]
   },
   {
     "countryCode": "CA",
     "countryName": "Canada",
     "holidays": [
-      {"date": "2025-01-01", "name": "New Year's Day", "description": "First day of the year", "isNational": true, "isOptional": false},
-      {"date": "2025-02-17", "name": "Family Day", "description": "Recognizes the importance of families", "isNational": false, "isOptional": false},
-      {"date": "2025-04-18", "name": "Good Friday", "description": "Commemorates the crucifixion of Jesus Christ", "isNational": true, "isOptional": false},
-      {"date": "2025-04-21", "name": "Easter Monday", "description": "The day after Easter Sunday", "isNational": true, "isOptional": false},
-      {"date": "2025-05-19", "name": "Victoria Day", "description": "Celebrates Queen Victoria's birthday", "isNational": true, "isOptional": false},
-      {"date": "2025-07-01", "name": "Canada Day", "description": "Celebrates Canadian Confederation", "isNational": true, "isOptional": false},
-      {"date": "2025-08-04", "name": "Civic Holiday", "description": "General civic holiday", "isNational": false, "isOptional": false},
-      {"date": "2025-09-01", "name": "Labour Day", "description": "Celebrates the labour movement", "isNational": true, "isOptional": false},
-      {"date": "2025-09-30", "name": "National Day for Truth and Reconciliation", "description": "Honors Indigenous peoples", "isNational": true, "isOptional": false},
-      {"date": "2025-10-13", "name": "Thanksgiving Day", "description": "Day of giving thanks", "isNational": true, "isOptional": false},
-      {"date": "2025-11-11", "name": "Remembrance Day", "description": "Honors military veterans", "isNational": true, "isOptional": false},
-      {"date": "2025-12-25", "name": "Christmas Day", "description": "Celebrates the birth of Jesus Christ", "isNational": true, "isOptional": false},
-      {"date": "2025-12-26", "name": "Boxing Day", "description": "Day after Christmas", "isNational": true, "isOptional": false}
+      {
+        "date": "2026-01-01",
+        "name": "New Year's Day",
+        "description": "First day of the year",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-02-17",
+        "name": "Family Day",
+        "description": "Recognizes the importance of families",
+        "isNational": false,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-18",
+        "name": "Good Friday",
+        "description": "Commemorates the crucifixion of Jesus Christ",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-21",
+        "name": "Easter Monday",
+        "description": "The day after Easter Sunday",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-05-19",
+        "name": "Victoria Day",
+        "description": "Celebrates Queen Victoria's birthday",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-07-01",
+        "name": "Canada Day",
+        "description": "Celebrates Canadian Confederation",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-08-04",
+        "name": "Civic Holiday",
+        "description": "General civic holiday",
+        "isNational": false,
+        "isOptional": false
+      },
+      {
+        "date": "2026-09-01",
+        "name": "Labour Day",
+        "description": "Celebrates the labour movement",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-09-30",
+        "name": "National Day for Truth and Reconciliation",
+        "description": "Honors Indigenous peoples",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-10-13",
+        "name": "Thanksgiving Day",
+        "description": "Day of giving thanks",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-11-11",
+        "name": "Remembrance Day",
+        "description": "Honors military veterans",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Christmas Day",
+        "description": "Celebrates the birth of Jesus Christ",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-26",
+        "name": "Boxing Day",
+        "description": "Day after Christmas",
+        "isNational": true,
+        "isOptional": false
+      }
     ]
   },
   {
     "countryCode": "AU",
     "countryName": "Australia",
     "holidays": [
-      {"date": "2025-01-01", "name": "New Year's Day", "description": "First day of the year", "isNational": true, "isOptional": false},
-      {"date": "2025-01-27", "name": "Australia Day", "description": "Celebrates the anniversary of the 1788 arrival of the First Fleet", "isNational": true, "isOptional": false},
-      {"date": "2025-04-18", "name": "Good Friday", "description": "Commemorates the crucifixion of Jesus Christ", "isNational": true, "isOptional": false},
-      {"date": "2025-04-19", "name": "Easter Saturday", "description": "Saturday before Easter", "isNational": true, "isOptional": false},
-      {"date": "2025-04-20", "name": "Easter Sunday", "description": "Celebrates Jesus Christ's resurrection", "isNational": true, "isOptional": false},
-      {"date": "2025-04-21", "name": "Easter Monday", "description": "The day after Easter Sunday", "isNational": true, "isOptional": false},
-      {"date": "2025-04-25", "name": "ANZAC Day", "description": "Commemorates Australian and New Zealand soldiers", "isNational": true, "isOptional": false},
-      {"date": "2025-06-09", "name": "King's Birthday", "description": "Celebrates the King's official birthday", "isNational": false, "isOptional": false},
-      {"date": "2025-10-06", "name": "Labour Day", "description": "Celebrates the 8-hour workday movement", "isNational": false, "isOptional": false},
-      {"date": "2025-12-25", "name": "Christmas Day", "description": "Celebrates the birth of Jesus Christ", "isNational": true, "isOptional": false},
-      {"date": "2025-12-26", "name": "Boxing Day", "description": "Day after Christmas", "isNational": true, "isOptional": false}
+      {
+        "date": "2026-01-01",
+        "name": "New Year's Day",
+        "description": "First day of the year",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-01-27",
+        "name": "Australia Day",
+        "description": "Celebrates the anniversary of the 1788 arrival of the First Fleet",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-18",
+        "name": "Good Friday",
+        "description": "Commemorates the crucifixion of Jesus Christ",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-19",
+        "name": "Easter Saturday",
+        "description": "Saturday before Easter",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-20",
+        "name": "Easter Sunday",
+        "description": "Celebrates Jesus Christ's resurrection",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-21",
+        "name": "Easter Monday",
+        "description": "The day after Easter Sunday",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-25",
+        "name": "ANZAC Day",
+        "description": "Commemorates Australian and New Zealand soldiers",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-06-09",
+        "name": "King's Birthday",
+        "description": "Celebrates the King's official birthday",
+        "isNational": false,
+        "isOptional": false
+      },
+      {
+        "date": "2026-10-06",
+        "name": "Labour Day",
+        "description": "Celebrates the 8-hour workday movement",
+        "isNational": false,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Christmas Day",
+        "description": "Celebrates the birth of Jesus Christ",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-26",
+        "name": "Boxing Day",
+        "description": "Day after Christmas",
+        "isNational": true,
+        "isOptional": false
+      }
     ]
   },
   {
     "countryCode": "JP",
     "countryName": "Japan",
     "holidays": [
-      {"date": "2025-01-01", "name": "New Year's Day", "description": "Shōgatsu — New Year celebration", "isNational": true, "isOptional": false},
-      {"date": "2025-01-13", "name": "Coming of Age Day", "description": "Seijin no Hi — celebrates those who turned 20", "isNational": true, "isOptional": false},
-      {"date": "2025-02-11", "name": "National Foundation Day", "description": "Kenkoku Kinen no Hi — founding of Japan", "isNational": true, "isOptional": false},
-      {"date": "2025-02-23", "name": "Emperor's Birthday", "description": "Tennō Tanjōbi — birthday of Emperor Naruhito", "isNational": true, "isOptional": false},
-      {"date": "2025-03-20", "name": "Vernal Equinox Day", "description": "Shunbun no Hi — first day of spring", "isNational": true, "isOptional": false},
-      {"date": "2025-04-29", "name": "Showa Day", "description": "Shōwa no Hi — birthday of Emperor Shōwa", "isNational": true, "isOptional": false},
-      {"date": "2025-05-03", "name": "Constitution Memorial Day", "description": "Kenpō Kinenbi — Japanese Constitution anniversary", "isNational": true, "isOptional": false},
-      {"date": "2025-05-04", "name": "Greenery Day", "description": "Midori no Hi — nature appreciation day", "isNational": true, "isOptional": false},
-      {"date": "2025-05-05", "name": "Children's Day", "description": "Kodomo no Hi — celebrates children's happiness", "isNational": true, "isOptional": false},
-      {"date": "2025-07-21", "name": "Marine Day", "description": "Umi no Hi — expresses gratitude to the ocean", "isNational": true, "isOptional": false},
-      {"date": "2025-08-11", "name": "Mountain Day", "description": "Yama no Hi — appreciates mountains", "isNational": true, "isOptional": false},
-      {"date": "2025-09-15", "name": "Respect for the Aged Day", "description": "Keirō no Hi — honors elderly", "isNational": true, "isOptional": false},
-      {"date": "2025-09-23", "name": "Autumnal Equinox Day", "description": "Shūbun no Hi — first day of autumn", "isNational": true, "isOptional": false},
-      {"date": "2025-10-13", "name": "Sports Day", "description": "Taiiku no Hi — promotes sports and healthy life", "isNational": true, "isOptional": false},
-      {"date": "2025-11-03", "name": "Culture Day", "description": "Bunka no Hi — celebrates arts and culture", "isNational": true, "isOptional": false},
-      {"date": "2025-11-23", "name": "Labour Thanksgiving Day", "description": "Kinrō Kansha no Hi — honors working people", "isNational": true, "isOptional": false}
+      {
+        "date": "2026-01-01",
+        "name": "New Year's Day",
+        "description": "Shōgatsu — New Year celebration",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-01-13",
+        "name": "Coming of Age Day",
+        "description": "Seijin no Hi — celebrates those who turned 20",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-02-11",
+        "name": "National Foundation Day",
+        "description": "Kenkoku Kinen no Hi — founding of Japan",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-02-23",
+        "name": "Emperor's Birthday",
+        "description": "Tennō Tanjōbi — birthday of Emperor Naruhito",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-03-20",
+        "name": "Vernal Equinox Day",
+        "description": "Shunbun no Hi — first day of spring",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-29",
+        "name": "Showa Day",
+        "description": "Shōwa no Hi — birthday of Emperor Shōwa",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-05-03",
+        "name": "Constitution Memorial Day",
+        "description": "Kenpō Kinenbi — Japanese Constitution anniversary",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-05-04",
+        "name": "Greenery Day",
+        "description": "Midori no Hi — nature appreciation day",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-05-05",
+        "name": "Children's Day",
+        "description": "Kodomo no Hi — celebrates children's happiness",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-07-21",
+        "name": "Marine Day",
+        "description": "Umi no Hi — expresses gratitude to the ocean",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-08-11",
+        "name": "Mountain Day",
+        "description": "Yama no Hi — appreciates mountains",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-09-15",
+        "name": "Respect for the Aged Day",
+        "description": "Keirō no Hi — honors elderly",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-09-23",
+        "name": "Autumnal Equinox Day",
+        "description": "Shūbun no Hi — first day of autumn",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-10-13",
+        "name": "Sports Day",
+        "description": "Taiiku no Hi — promotes sports and healthy life",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-11-03",
+        "name": "Culture Day",
+        "description": "Bunka no Hi — celebrates arts and culture",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-11-23",
+        "name": "Labour Thanksgiving Day",
+        "description": "Kinrō Kansha no Hi — honors working people",
+        "isNational": true,
+        "isOptional": false
+      }
     ]
   },
   {
     "countryCode": "KR",
     "countryName": "South Korea",
     "holidays": [
-      {"date": "2025-01-01", "name": "New Year's Day", "description": "Sinjeong — first day of the year", "isNational": true, "isOptional": false},
-      {"date": "2025-01-28", "name": "Lunar New Year's Eve", "description": "Seollal Eve — day before lunar new year", "isNational": true, "isOptional": false},
-      {"date": "2025-01-29", "name": "Lunar New Year", "description": "Seollal — Korean New Year", "isNational": true, "isOptional": false},
-      {"date": "2025-01-30", "name": "Lunar New Year Holiday", "description": "Seollal — day after lunar new year", "isNational": true, "isOptional": false},
-      {"date": "2025-03-01", "name": "Independence Movement Day", "description": "Samil jeol — 1919 independence movement", "isNational": true, "isOptional": false},
-      {"date": "2025-05-05", "name": "Children's Day", "description": "Eorininal — dedicated to children", "isNational": true, "isOptional": false},
-      {"date": "2025-06-06", "name": "Memorial Day", "description": "Hyeonchung il — honors war veterans", "isNational": true, "isOptional": false},
-      {"date": "2025-08-15", "name": "Liberation Day", "description": "Gwangbokjeol — celebrates independence from Japan", "isNational": true, "isOptional": false},
-      {"date": "2025-10-03", "name": "National Foundation Day", "description": "Gaecheonjeol — mythical founding of Korea", "isNational": true, "isOptional": false},
-      {"date": "2025-10-09", "name": "Hangul Day", "description": "Hangeullal — celebrates Korean alphabet", "isNational": true, "isOptional": false},
-      {"date": "2025-12-25", "name": "Christmas Day", "description": "Celebrates the birth of Jesus Christ", "isNational": true, "isOptional": false}
+      {
+        "date": "2026-01-01",
+        "name": "New Year's Day",
+        "description": "Sinjeong — first day of the year",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-01-28",
+        "name": "Lunar New Year's Eve",
+        "description": "Seollal Eve — day before lunar new year",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-01-29",
+        "name": "Lunar New Year",
+        "description": "Seollal — Korean New Year",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-01-30",
+        "name": "Lunar New Year Holiday",
+        "description": "Seollal — day after lunar new year",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-03-01",
+        "name": "Independence Movement Day",
+        "description": "Samil jeol — 1919 independence movement",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-05-05",
+        "name": "Children's Day",
+        "description": "Eorininal — dedicated to children",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-06-06",
+        "name": "Memorial Day",
+        "description": "Hyeonchung il — honors war veterans",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-08-15",
+        "name": "Liberation Day",
+        "description": "Gwangbokjeol — celebrates independence from Japan",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-10-03",
+        "name": "National Foundation Day",
+        "description": "Gaecheonjeol — mythical founding of Korea",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-10-09",
+        "name": "Hangul Day",
+        "description": "Hangeullal — celebrates Korean alphabet",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Christmas Day",
+        "description": "Celebrates the birth of Jesus Christ",
+        "isNational": true,
+        "isOptional": false
+      }
     ]
   },
   {
     "countryCode": "DE",
     "countryName": "Germany",
     "holidays": [
-      {"date": "2025-01-01", "name": "New Year's Day", "description": "Neujahr — first day of the year", "isNational": true, "isOptional": false},
-      {"date": "2025-04-18", "name": "Good Friday", "description": "Karfreitag — commemorates crucifixion of Jesus", "isNational": true, "isOptional": false},
-      {"date": "2025-04-21", "name": "Easter Monday", "description": "Ostermontag — day after Easter Sunday", "isNational": true, "isOptional": false},
-      {"date": "2025-05-01", "name": "Labour Day", "description": "Tag der Arbeit — international workers day", "isNational": true, "isOptional": false},
-      {"date": "2025-05-29", "name": "Ascension Day", "description": "Christi Himmelfahrt — ascension of Jesus to heaven", "isNational": true, "isOptional": false},
-      {"date": "2025-06-09", "name": "Whit Monday", "description": "Pfingstmontag — day after Pentecost", "isNational": true, "isOptional": false},
-      {"date": "2025-10-03", "name": "German Unity Day", "description": "Tag der Deutschen Einheit — German reunification", "isNational": true, "isOptional": false},
-      {"date": "2025-12-25", "name": "Christmas Day", "description": "Weihnachtstag — first day of Christmas", "isNational": true, "isOptional": false},
-      {"date": "2025-12-26", "name": "Second Day of Christmas", "description": "Zweiter Weihnachtstag — second day of Christmas", "isNational": true, "isOptional": false}
+      {
+        "date": "2026-01-01",
+        "name": "New Year's Day",
+        "description": "Neujahr — first day of the year",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-18",
+        "name": "Good Friday",
+        "description": "Karfreitag — commemorates crucifixion of Jesus",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-21",
+        "name": "Easter Monday",
+        "description": "Ostermontag — day after Easter Sunday",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-05-01",
+        "name": "Labour Day",
+        "description": "Tag der Arbeit — international workers day",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-05-29",
+        "name": "Ascension Day",
+        "description": "Christi Himmelfahrt — ascension of Jesus to heaven",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-06-09",
+        "name": "Whit Monday",
+        "description": "Pfingstmontag — day after Pentecost",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-10-03",
+        "name": "German Unity Day",
+        "description": "Tag der Deutschen Einheit — German reunification",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Christmas Day",
+        "description": "Weihnachtstag — first day of Christmas",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-26",
+        "name": "Second Day of Christmas",
+        "description": "Zweiter Weihnachtstag — second day of Christmas",
+        "isNational": true,
+        "isOptional": false
+      }
     ]
   },
   {
     "countryCode": "FR",
     "countryName": "France",
     "holidays": [
-      {"date": "2025-01-01", "name": "New Year's Day", "description": "Jour de l'An — premier jour de l'année", "isNational": true, "isOptional": false},
-      {"date": "2025-04-21", "name": "Easter Monday", "description": "Lundi de Pâques — lendemain de Pâques", "isNational": true, "isOptional": false},
-      {"date": "2025-05-01", "name": "Labour Day", "description": "Fête du Travail — fête internationale des travailleurs", "isNational": true, "isOptional": false},
-      {"date": "2025-05-08", "name": "Victory in Europe Day", "description": "Victoire 1945 — fin de la Seconde Guerre mondiale", "isNational": true, "isOptional": false},
-      {"date": "2025-05-29", "name": "Ascension Day", "description": "Ascension du Christ", "isNational": true, "isOptional": false},
-      {"date": "2025-06-09", "name": "Whit Monday", "description": "Lundi de Pentecôte", "isNational": true, "isOptional": false},
-      {"date": "2025-07-14", "name": "Bastille Day", "description": "Fête Nationale — célèbre la Révolution française", "isNational": true, "isOptional": false},
-      {"date": "2025-08-15", "name": "Assumption of Mary", "description": "Assomption de Marie", "isNational": true, "isOptional": false},
-      {"date": "2025-11-01", "name": "All Saints' Day", "description": "Toussaint — jour des morts", "isNational": true, "isOptional": false},
-      {"date": "2025-11-11", "name": "Armistice Day", "description": "Jour du souvenir — fin de la Première Guerre mondiale", "isNational": true, "isOptional": false},
-      {"date": "2025-12-25", "name": "Christmas Day", "description": "Noël — fête de la nativité du Christ", "isNational": true, "isOptional": false}
+      {
+        "date": "2026-01-01",
+        "name": "New Year's Day",
+        "description": "Jour de l'An — premier jour de l'année",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-21",
+        "name": "Easter Monday",
+        "description": "Lundi de Pâques — lendemain de Pâques",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-05-01",
+        "name": "Labour Day",
+        "description": "Fête du Travail — fête internationale des travailleurs",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-05-08",
+        "name": "Victory in Europe Day",
+        "description": "Victoire 1945 — fin de la Seconde Guerre mondiale",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-05-29",
+        "name": "Ascension Day",
+        "description": "Ascension du Christ",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-06-09",
+        "name": "Whit Monday",
+        "description": "Lundi de Pentecôte",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-07-14",
+        "name": "Bastille Day",
+        "description": "Fête Nationale — célèbre la Révolution française",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-08-15",
+        "name": "Assumption of Mary",
+        "description": "Assomption de Marie",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-11-01",
+        "name": "All Saints' Day",
+        "description": "Toussaint — jour des morts",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-11-11",
+        "name": "Armistice Day",
+        "description": "Jour du souvenir — fin de la Première Guerre mondiale",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Christmas Day",
+        "description": "Noël — fête de la nativité du Christ",
+        "isNational": true,
+        "isOptional": false
+      }
     ]
   },
   {
     "countryCode": "ES",
     "countryName": "Spain",
     "holidays": [
-      {"date": "2025-01-01", "name": "New Year's Day", "description": "Año Nuevo — primer día del año", "isNational": true, "isOptional": false},
-      {"date": "2025-01-06", "name": "Epiphany", "description": "Día de Reyes — arrival of the Three Wise Men", "isNational": true, "isOptional": false},
-      {"date": "2025-04-18", "name": "Good Friday", "description": "Viernes Santo — conmemora la crucifixión de Jesús", "isNational": true, "isOptional": false},
-      {"date": "2025-05-01", "name": "Labour Day", "description": "Fiesta del Trabajo — día internacional de los trabajadores", "isNational": true, "isOptional": false},
-      {"date": "2025-08-15", "name": "Assumption of Mary", "description": "Asunción de la Virgen", "isNational": true, "isOptional": false},
-      {"date": "2025-10-12", "name": "National Day of Spain", "description": "Día de la Hispanidad — Columbus Day in Spain", "isNational": true, "isOptional": false},
-      {"date": "2025-11-01", "name": "All Saints' Day", "description": "Día de Todos los Santos", "isNational": true, "isOptional": false},
-      {"date": "2025-12-06", "name": "Spanish Constitution Day", "description": "Día de la Constitución Española", "isNational": true, "isOptional": false},
-      {"date": "2025-12-08", "name": "Immaculate Conception", "description": "Día de la Inmaculada Concepción", "isNational": true, "isOptional": false},
-      {"date": "2025-12-25", "name": "Christmas Day", "description": "Navidad — celebra el nacimiento de Jesucristo", "isNational": true, "isOptional": false}
+      {
+        "date": "2026-01-01",
+        "name": "New Year's Day",
+        "description": "Año Nuevo — primer día del año",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-01-06",
+        "name": "Epiphany",
+        "description": "Día de Reyes — arrival of the Three Wise Men",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-18",
+        "name": "Good Friday",
+        "description": "Viernes Santo — conmemora la crucifixión de Jesús",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-05-01",
+        "name": "Labour Day",
+        "description": "Fiesta del Trabajo — día internacional de los trabajadores",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-08-15",
+        "name": "Assumption of Mary",
+        "description": "Asunción de la Virgen",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-10-12",
+        "name": "National Day of Spain",
+        "description": "Día de la Hispanidad — Columbus Day in Spain",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-11-01",
+        "name": "All Saints' Day",
+        "description": "Día de Todos los Santos",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-06",
+        "name": "Spanish Constitution Day",
+        "description": "Día de la Constitución Española",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-08",
+        "name": "Immaculate Conception",
+        "description": "Día de la Inmaculada Concepción",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Christmas Day",
+        "description": "Navidad — celebra el nacimiento de Jesucristo",
+        "isNational": true,
+        "isOptional": false
+      }
     ]
   },
   {
     "countryCode": "BR",
     "countryName": "Brazil",
     "holidays": [
-      {"date": "2025-01-01", "name": "New Year's Day", "description": "Ano Novo — primeiro dia do ano", "isNational": true, "isOptional": false},
-      {"date": "2025-03-03", "name": "Carnival Monday", "description": "Segunda-Feira de Carnaval", "isNational": false, "isOptional": false},
-      {"date": "2025-03-04", "name": "Carnival Tuesday", "description": "Terça-Feira de Carnaval", "isNational": false, "isOptional": false},
-      {"date": "2025-04-18", "name": "Good Friday", "description": "Sexta-Feira Santa", "isNational": true, "isOptional": false},
-      {"date": "2025-04-21", "name": "Tiradentes' Day", "description": "Dia de Tiradentes — Brazil's independence hero", "isNational": true, "isOptional": false},
-      {"date": "2025-05-01", "name": "Labour Day", "description": "Dia do Trabalho", "isNational": true, "isOptional": false},
-      {"date": "2025-06-19", "name": "Corpus Christi", "description": "Corpus Christi — Catholic holiday", "isNational": true, "isOptional": false},
-      {"date": "2025-09-07", "name": "Independence Day", "description": "Dia da Independência do Brasil", "isNational": true, "isOptional": false},
-      {"date": "2025-10-12", "name": "Our Lady of Aparecida", "description": "Nossa Senhora de Aparecida — Brazil's patron saint", "isNational": true, "isOptional": false},
-      {"date": "2025-11-02", "name": "All Souls' Day", "description": "Finados — Day of the Dead", "isNational": true, "isOptional": false},
-      {"date": "2025-11-15", "name": "Proclamation of the Republic", "description": "Proclamação da República do Brasil", "isNational": true, "isOptional": false},
-      {"date": "2025-12-25", "name": "Christmas Day", "description": "Natal — celebra o nascimento de Jesus Cristo", "isNational": true, "isOptional": false}
+      {
+        "date": "2026-01-01",
+        "name": "New Year's Day",
+        "description": "Ano Novo — primeiro dia do ano",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-03-03",
+        "name": "Carnival Monday",
+        "description": "Segunda-Feira de Carnaval",
+        "isNational": false,
+        "isOptional": false
+      },
+      {
+        "date": "2026-03-04",
+        "name": "Carnival Tuesday",
+        "description": "Terça-Feira de Carnaval",
+        "isNational": false,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-18",
+        "name": "Good Friday",
+        "description": "Sexta-Feira Santa",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-21",
+        "name": "Tiradentes' Day",
+        "description": "Dia de Tiradentes — Brazil's independence hero",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-05-01",
+        "name": "Labour Day",
+        "description": "Dia do Trabalho",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-06-19",
+        "name": "Corpus Christi",
+        "description": "Corpus Christi — Catholic holiday",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-09-07",
+        "name": "Independence Day",
+        "description": "Dia da Independência do Brasil",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-10-12",
+        "name": "Our Lady of Aparecida",
+        "description": "Nossa Senhora de Aparecida — Brazil's patron saint",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-11-02",
+        "name": "All Souls' Day",
+        "description": "Finados — Day of the Dead",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-11-15",
+        "name": "Proclamation of the Republic",
+        "description": "Proclamação da República do Brasil",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Christmas Day",
+        "description": "Natal — celebra o nascimento de Jesus Cristo",
+        "isNational": true,
+        "isOptional": false
+      }
     ]
   },
   {
     "countryCode": "IN",
     "countryName": "India",
     "holidays": [
-      {"date": "2025-01-26", "name": "Republic Day", "description": "Commemorates the day India's constitution took effect", "isNational": true, "isOptional": false},
-      {"date": "2025-03-14", "name": "Holi", "description": "Festival of Colors — Hindu spring festival", "isNational": false, "isOptional": true},
-      {"date": "2025-04-14", "name": "Dr. Ambedkar Jayanti", "description": "Birthday of Dr. B.R. Ambedkar", "isNational": true, "isOptional": false},
-      {"date": "2025-04-18", "name": "Good Friday", "description": "Commemorates the crucifixion of Jesus Christ", "isNational": true, "isOptional": false},
-      {"date": "2025-08-15", "name": "Independence Day", "description": "India's independence from British rule in 1947", "isNational": true, "isOptional": false},
-      {"date": "2025-10-02", "name": "Gandhi Jayanti", "description": "Birthday of Mahatma Gandhi", "isNational": true, "isOptional": false},
-      {"date": "2025-10-20", "name": "Dussehra", "description": "Vijayadashami — victory of good over evil", "isNational": false, "isOptional": true},
-      {"date": "2025-11-05", "name": "Diwali", "description": "Festival of Lights", "isNational": false, "isOptional": true},
-      {"date": "2025-11-05", "name": "Diwali", "description": "Festival of Lights", "isNational": false, "isOptional": true},
-      {"date": "2025-12-25", "name": "Christmas Day", "description": "Celebrates the birth of Jesus Christ", "isNational": true, "isOptional": false}
+      {
+        "date": "2026-01-26",
+        "name": "Republic Day",
+        "description": "Commemorates the day India's constitution took effect",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-03-14",
+        "name": "Holi",
+        "description": "Festival of Colors — Hindu spring festival",
+        "isNational": false,
+        "isOptional": true
+      },
+      {
+        "date": "2026-04-14",
+        "name": "Dr. Ambedkar Jayanti",
+        "description": "Birthday of Dr. B.R. Ambedkar",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-18",
+        "name": "Good Friday",
+        "description": "Commemorates the crucifixion of Jesus Christ",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-08-15",
+        "name": "Independence Day",
+        "description": "India's independence from British rule in 1947",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-10-02",
+        "name": "Gandhi Jayanti",
+        "description": "Birthday of Mahatma Gandhi",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-10-20",
+        "name": "Dussehra",
+        "description": "Vijayadashami — victory of good over evil",
+        "isNational": false,
+        "isOptional": true
+      },
+      {
+        "date": "2026-11-05",
+        "name": "Diwali",
+        "description": "Festival of Lights",
+        "isNational": false,
+        "isOptional": true
+      },
+      {
+        "date": "2026-11-05",
+        "name": "Diwali",
+        "description": "Festival of Lights",
+        "isNational": false,
+        "isOptional": true
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Christmas Day",
+        "description": "Celebrates the birth of Jesus Christ",
+        "isNational": true,
+        "isOptional": false
+      }
     ]
   },
   {
     "countryCode": "CN",
     "countryName": "China",
     "holidays": [
-      {"date": "2025-01-01", "name": "New Year's Day", "description": "元旦 — first day of the year", "isNational": true, "isOptional": false},
-      {"date": "2025-01-29", "name": "Chinese New Year", "description": "春节 — Spring Festival, Year of the Snake", "isNational": true, "isOptional": false},
-      {"date": "2025-01-30", "name": "Chinese New Year Holiday", "description": "春节假期 — Spring Festival holiday", "isNational": true, "isOptional": false},
-      {"date": "2025-01-31", "name": "Chinese New Year Holiday", "description": "春节假期 — Spring Festival holiday", "isNational": true, "isOptional": false},
-      {"date": "2025-02-01", "name": "Chinese New Year Holiday", "description": "春节假期 — Spring Festival holiday", "isNational": true, "isOptional": false},
-      {"date": "2025-04-04", "name": "Qingming Festival", "description": "清明节 — Tomb Sweeping Day", "isNational": true, "isOptional": false},
-      {"date": "2025-05-01", "name": "Labour Day", "description": "劳动节 — International Workers Day", "isNational": true, "isOptional": false},
-      {"date": "2025-06-02", "name": "Dragon Boat Festival", "description": "端午节 — Duanwu Festival", "isNational": true, "isOptional": false},
-      {"date": "2025-10-01", "name": "National Day", "description": "国庆节 — People's Republic of China founding", "isNational": true, "isOptional": false},
-      {"date": "2025-10-06", "name": "Mid-Autumn Festival", "description": "中秋节 — Moon Festival", "isNational": true, "isOptional": false}
+      {
+        "date": "2026-01-01",
+        "name": "New Year's Day",
+        "description": "元旦 — first day of the year",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-01-29",
+        "name": "Chinese New Year",
+        "description": "春节 — Spring Festival, Year of the Snake",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-01-30",
+        "name": "Chinese New Year Holiday",
+        "description": "春节假期 — Spring Festival holiday",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-01-31",
+        "name": "Chinese New Year Holiday",
+        "description": "春节假期 — Spring Festival holiday",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-02-01",
+        "name": "Chinese New Year Holiday",
+        "description": "春节假期 — Spring Festival holiday",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-04",
+        "name": "Qingming Festival",
+        "description": "清明节 — Tomb Sweeping Day",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-05-01",
+        "name": "Labour Day",
+        "description": "劳动节 — International Workers Day",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-06-02",
+        "name": "Dragon Boat Festival",
+        "description": "端午节 — Duanwu Festival",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-10-01",
+        "name": "National Day",
+        "description": "国庆节 — People's Republic of China founding",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-10-06",
+        "name": "Mid-Autumn Festival",
+        "description": "中秋节 — Moon Festival",
+        "isNational": true,
+        "isOptional": false
+      }
     ]
   },
   {
     "countryCode": "MX",
     "countryName": "Mexico",
     "holidays": [
-      {"date": "2025-01-01", "name": "New Year's Day", "description": "Año Nuevo", "isNational": true, "isOptional": false},
-      {"date": "2025-02-03", "name": "Constitution Day", "description": "Día de la Constitución", "isNational": true, "isOptional": false},
-      {"date": "2025-03-17", "name": "Benito Juárez Day", "description": "Natalicio de Benito Juárez", "isNational": true, "isOptional": false},
-      {"date": "2025-04-17", "name": "Maundy Thursday", "description": "Jueves Santo — Holy Thursday", "isNational": false, "isOptional": true},
-      {"date": "2025-04-18", "name": "Good Friday", "description": "Viernes Santo", "isNational": false, "isOptional": true},
-      {"date": "2025-05-01", "name": "Labour Day", "description": "Día del Trabajo", "isNational": true, "isOptional": false},
-      {"date": "2025-09-16", "name": "Independence Day", "description": "Día de la Independencia — Mexican independence", "isNational": true, "isOptional": false},
-      {"date": "2025-11-17", "name": "Revolution Day", "description": "Día de la Revolución — Mexican Revolution", "isNational": true, "isOptional": false},
-      {"date": "2025-12-12", "name": "Our Lady of Guadalupe", "description": "Día de la Virgen de Guadalupe", "isNational": false, "isOptional": true},
-      {"date": "2025-12-25", "name": "Christmas Day", "description": "Navidad", "isNational": true, "isOptional": false}
+      {
+        "date": "2026-01-01",
+        "name": "New Year's Day",
+        "description": "Año Nuevo",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-02-03",
+        "name": "Constitution Day",
+        "description": "Día de la Constitución",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-03-17",
+        "name": "Benito Juárez Day",
+        "description": "Natalicio de Benito Juárez",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-17",
+        "name": "Maundy Thursday",
+        "description": "Jueves Santo — Holy Thursday",
+        "isNational": false,
+        "isOptional": true
+      },
+      {
+        "date": "2026-04-18",
+        "name": "Good Friday",
+        "description": "Viernes Santo",
+        "isNational": false,
+        "isOptional": true
+      },
+      {
+        "date": "2026-05-01",
+        "name": "Labour Day",
+        "description": "Día del Trabajo",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-09-16",
+        "name": "Independence Day",
+        "description": "Día de la Independencia — Mexican independence",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-11-17",
+        "name": "Revolution Day",
+        "description": "Día de la Revolución — Mexican Revolution",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-12",
+        "name": "Our Lady of Guadalupe",
+        "description": "Día de la Virgen de Guadalupe",
+        "isNational": false,
+        "isOptional": true
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Christmas Day",
+        "description": "Navidad",
+        "isNational": true,
+        "isOptional": false
+      }
     ]
   },
   {
     "countryCode": "IT",
     "countryName": "Italy",
     "holidays": [
-      {"date": "2025-01-01", "name": "New Year's Day", "description": "Capodanno", "isNational": true, "isOptional": false},
-      {"date": "2025-01-06", "name": "Epiphany", "description": "Epifania", "isNational": true, "isOptional": false},
-      {"date": "2025-04-21", "name": "Easter Monday", "description": "Lunedì dell'Angelo", "isNational": true, "isOptional": false},
-      {"date": "2025-04-25", "name": "Liberation Day", "description": "Festa della Liberazione — end of WWII in Italy", "isNational": true, "isOptional": false},
-      {"date": "2025-05-01", "name": "Labour Day", "description": "Festa dei Lavoratori", "isNational": true, "isOptional": false},
-      {"date": "2025-06-02", "name": "Republic Day", "description": "Festa della Repubblica", "isNational": true, "isOptional": false},
-      {"date": "2025-08-15", "name": "Assumption of Mary", "description": "Ferragosto", "isNational": true, "isOptional": false},
-      {"date": "2025-11-01", "name": "All Saints' Day", "description": "Tutti i Santi", "isNational": true, "isOptional": false},
-      {"date": "2025-12-08", "name": "Immaculate Conception", "description": "Immacolata Concezione", "isNational": true, "isOptional": false},
-      {"date": "2025-12-25", "name": "Christmas Day", "description": "Natale", "isNational": true, "isOptional": false},
-      {"date": "2025-12-26", "name": "St. Stephen's Day", "description": "Santo Stefano", "isNational": true, "isOptional": false}
+      {
+        "date": "2026-01-01",
+        "name": "New Year's Day",
+        "description": "Capodanno",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-01-06",
+        "name": "Epiphany",
+        "description": "Epifania",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-21",
+        "name": "Easter Monday",
+        "description": "Lunedì dell'Angelo",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-25",
+        "name": "Liberation Day",
+        "description": "Festa della Liberazione — end of WWII in Italy",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-05-01",
+        "name": "Labour Day",
+        "description": "Festa dei Lavoratori",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-06-02",
+        "name": "Republic Day",
+        "description": "Festa della Repubblica",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-08-15",
+        "name": "Assumption of Mary",
+        "description": "Ferragosto",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-11-01",
+        "name": "All Saints' Day",
+        "description": "Tutti i Santi",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-08",
+        "name": "Immaculate Conception",
+        "description": "Immacolata Concezione",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Christmas Day",
+        "description": "Natale",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-26",
+        "name": "St. Stephen's Day",
+        "description": "Santo Stefano",
+        "isNational": true,
+        "isOptional": false
+      }
     ]
   },
   {
     "countryCode": "NL",
     "countryName": "Netherlands",
     "holidays": [
-      {"date": "2025-01-01", "name": "New Year's Day", "description": "Nieuwjaarsdag", "isNational": true, "isOptional": false},
-      {"date": "2025-04-18", "name": "Good Friday", "description": "Goede Vrijdag", "isNational": true, "isOptional": false},
-      {"date": "2025-04-20", "name": "Easter Sunday", "description": "Eerste Paasdag", "isNational": true, "isOptional": false},
-      {"date": "2025-04-21", "name": "Easter Monday", "description": "Tweede Paasdag", "isNational": true, "isOptional": false},
-      {"date": "2025-04-26", "name": "King's Day", "description": "Koningsdag — birthday of King Willem-Alexander", "isNational": true, "isOptional": false},
-      {"date": "2025-05-05", "name": "Liberation Day", "description": "Bevrijdingsdag — end of WWII in Netherlands", "isNational": true, "isOptional": false},
-      {"date": "2025-05-29", "name": "Ascension Day", "description": "Hemelvaartsdag", "isNational": true, "isOptional": false},
-      {"date": "2025-06-08", "name": "Whit Sunday", "description": "Eerste Pinksterdag", "isNational": true, "isOptional": false},
-      {"date": "2025-06-09", "name": "Whit Monday", "description": "Tweede Pinksterdag", "isNational": true, "isOptional": false},
-      {"date": "2025-12-25", "name": "Christmas Day", "description": "Eerste Kerstdag", "isNational": true, "isOptional": false},
-      {"date": "2025-12-26", "name": "Second Day of Christmas", "description": "Tweede Kerstdag", "isNational": true, "isOptional": false}
+      {
+        "date": "2026-01-01",
+        "name": "New Year's Day",
+        "description": "Nieuwjaarsdag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-18",
+        "name": "Good Friday",
+        "description": "Goede Vrijdag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-20",
+        "name": "Easter Sunday",
+        "description": "Eerste Paasdag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-21",
+        "name": "Easter Monday",
+        "description": "Tweede Paasdag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-26",
+        "name": "King's Day",
+        "description": "Koningsdag — birthday of King Willem-Alexander",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-05-05",
+        "name": "Liberation Day",
+        "description": "Bevrijdingsdag — end of WWII in Netherlands",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-05-29",
+        "name": "Ascension Day",
+        "description": "Hemelvaartsdag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-06-08",
+        "name": "Whit Sunday",
+        "description": "Eerste Pinksterdag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-06-09",
+        "name": "Whit Monday",
+        "description": "Tweede Pinksterdag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Christmas Day",
+        "description": "Eerste Kerstdag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-26",
+        "name": "Second Day of Christmas",
+        "description": "Tweede Kerstdag",
+        "isNational": true,
+        "isOptional": false
+      }
     ]
   },
   {
     "countryCode": "SG",
     "countryName": "Singapore",
     "holidays": [
-      {"date": "2025-01-01", "name": "New Year's Day", "description": "First day of the year", "isNational": true, "isOptional": false},
-      {"date": "2025-01-29", "name": "Chinese New Year", "description": "Spring Festival — Year of the Snake", "isNational": true, "isOptional": false},
-      {"date": "2025-01-30", "name": "Chinese New Year (Day 2)", "description": "Second day of Chinese New Year", "isNational": true, "isOptional": false},
-      {"date": "2025-03-31", "name": "Hari Raya Puasa", "description": "Eid al-Fitr — end of Ramadan", "isNational": true, "isOptional": false},
-      {"date": "2025-04-18", "name": "Good Friday", "description": "Commemorates the crucifixion of Jesus Christ", "isNational": true, "isOptional": false},
-      {"date": "2025-05-01", "name": "Labour Day", "description": "International Workers Day", "isNational": true, "isOptional": false},
-      {"date": "2025-05-12", "name": "Vesak Day", "description": "Buddha's birthday, enlightenment, and death", "isNational": true, "isOptional": false},
-      {"date": "2025-06-07", "name": "Hari Raya Haji", "description": "Eid al-Adha — Feast of Sacrifice", "isNational": true, "isOptional": false},
-      {"date": "2025-08-09", "name": "National Day", "description": "Singapore's independence day", "isNational": true, "isOptional": false},
-      {"date": "2025-10-23", "name": "Deepavali", "description": "Festival of Lights — Hindu festival", "isNational": true, "isOptional": false},
-      {"date": "2025-12-25", "name": "Christmas Day", "description": "Celebrates the birth of Jesus Christ", "isNational": true, "isOptional": false}
+      {
+        "date": "2026-01-01",
+        "name": "New Year's Day",
+        "description": "First day of the year",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-01-29",
+        "name": "Chinese New Year",
+        "description": "Spring Festival — Year of the Snake",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-01-30",
+        "name": "Chinese New Year (Day 2)",
+        "description": "Second day of Chinese New Year",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-03-31",
+        "name": "Hari Raya Puasa",
+        "description": "Eid al-Fitr — end of Ramadan",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-18",
+        "name": "Good Friday",
+        "description": "Commemorates the crucifixion of Jesus Christ",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-05-01",
+        "name": "Labour Day",
+        "description": "International Workers Day",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-05-12",
+        "name": "Vesak Day",
+        "description": "Buddha's birthday, enlightenment, and death",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-06-07",
+        "name": "Hari Raya Haji",
+        "description": "Eid al-Adha — Feast of Sacrifice",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-08-09",
+        "name": "National Day",
+        "description": "Singapore's independence day",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-10-23",
+        "name": "Deepavali",
+        "description": "Festival of Lights — Hindu festival",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Christmas Day",
+        "description": "Celebrates the birth of Jesus Christ",
+        "isNational": true,
+        "isOptional": false
+      }
     ]
   },
   {
     "countryCode": "NZ",
     "countryName": "New Zealand",
     "holidays": [
-      {"date": "2025-01-01", "name": "New Year's Day", "description": "First day of the year", "isNational": true, "isOptional": false},
-      {"date": "2025-01-02", "name": "Day after New Year's Day", "description": "Second public holiday for New Year", "isNational": true, "isOptional": false},
-      {"date": "2025-02-06", "name": "Waitangi Day", "description": "National day of New Zealand", "isNational": true, "isOptional": false},
-      {"date": "2025-04-18", "name": "Good Friday", "description": "Commemorates the crucifixion of Jesus Christ", "isNational": true, "isOptional": false},
-      {"date": "2025-04-19", "name": "Easter Saturday", "description": "Saturday before Easter", "isNational": true, "isOptional": false},
-      {"date": "2025-04-21", "name": "Easter Monday", "description": "The day after Easter Sunday", "isNational": true, "isOptional": false},
-      {"date": "2025-04-25", "name": "ANZAC Day", "description": "Commemorates Australian and New Zealand soldiers", "isNational": true, "isOptional": false},
-      {"date": "2025-06-02", "name": "King's Birthday", "description": "Official birthday of the King", "isNational": true, "isOptional": false},
-      {"date": "2025-10-27", "name": "Labour Day", "description": "Celebrates the 8-hour workday movement", "isNational": true, "isOptional": false},
-      {"date": "2025-12-25", "name": "Christmas Day", "description": "Celebrates the birth of Jesus Christ", "isNational": true, "isOptional": false},
-      {"date": "2025-12-26", "name": "Boxing Day", "description": "Day after Christmas", "isNational": true, "isOptional": false}
+      {
+        "date": "2026-01-01",
+        "name": "New Year's Day",
+        "description": "First day of the year",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-01-02",
+        "name": "Day after New Year's Day",
+        "description": "Second public holiday for New Year",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-02-06",
+        "name": "Waitangi Day",
+        "description": "National day of New Zealand",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-18",
+        "name": "Good Friday",
+        "description": "Commemorates the crucifixion of Jesus Christ",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-19",
+        "name": "Easter Saturday",
+        "description": "Saturday before Easter",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-21",
+        "name": "Easter Monday",
+        "description": "The day after Easter Sunday",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-25",
+        "name": "ANZAC Day",
+        "description": "Commemorates Australian and New Zealand soldiers",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-06-02",
+        "name": "King's Birthday",
+        "description": "Official birthday of the King",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-10-27",
+        "name": "Labour Day",
+        "description": "Celebrates the 8-hour workday movement",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Christmas Day",
+        "description": "Celebrates the birth of Jesus Christ",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-26",
+        "name": "Boxing Day",
+        "description": "Day after Christmas",
+        "isNational": true,
+        "isOptional": false
+      }
     ]
   },
   {
     "countryCode": "SE",
     "countryName": "Sweden",
     "holidays": [
-      {"date": "2025-01-01", "name": "New Year's Day", "description": "Nyårsdagen", "isNational": true, "isOptional": false},
-      {"date": "2025-01-06", "name": "Epiphany", "description": "Trettondedag jul — Three Kings Day", "isNational": true, "isOptional": false},
-      {"date": "2025-04-18", "name": "Good Friday", "description": "Långfredagen", "isNational": true, "isOptional": false},
-      {"date": "2025-04-19", "name": "Holy Saturday", "description": "Påskafton", "isNational": false, "isOptional": false},
-      {"date": "2025-04-20", "name": "Easter Sunday", "description": "Påskdagen", "isNational": true, "isOptional": false},
-      {"date": "2025-04-21", "name": "Easter Monday", "description": "Annandag påsk", "isNational": true, "isOptional": false},
-      {"date": "2025-05-01", "name": "Labour Day", "description": "Första maj", "isNational": true, "isOptional": false},
-      {"date": "2025-05-29", "name": "Ascension Day", "description": "Kristi himmelsfärdsdag", "isNational": true, "isOptional": false},
-      {"date": "2025-06-06", "name": "National Day of Sweden", "description": "Sveriges nationaldag", "isNational": true, "isOptional": false},
-      {"date": "2025-06-20", "name": "Midsummer Day", "description": "Midsommar — Swedish summer solstice celebration", "isNational": true, "isOptional": false},
-      {"date": "2025-11-01", "name": "All Saints' Day", "description": "Alla helgons dag", "isNational": true, "isOptional": false},
-      {"date": "2025-12-25", "name": "Christmas Day", "description": "Juldagen", "isNational": true, "isOptional": false},
-      {"date": "2025-12-26", "name": "Second Day of Christmas", "description": "Annandag jul", "isNational": true, "isOptional": false}
+      {
+        "date": "2026-01-01",
+        "name": "New Year's Day",
+        "description": "Nyårsdagen",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-01-06",
+        "name": "Epiphany",
+        "description": "Trettondedag jul — Three Kings Day",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-18",
+        "name": "Good Friday",
+        "description": "Långfredagen",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-19",
+        "name": "Holy Saturday",
+        "description": "Påskafton",
+        "isNational": false,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-20",
+        "name": "Easter Sunday",
+        "description": "Påskdagen",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-21",
+        "name": "Easter Monday",
+        "description": "Annandag påsk",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-05-01",
+        "name": "Labour Day",
+        "description": "Första maj",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-05-29",
+        "name": "Ascension Day",
+        "description": "Kristi himmelsfärdsdag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-06-06",
+        "name": "National Day of Sweden",
+        "description": "Sveriges nationaldag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-06-20",
+        "name": "Midsummer Day",
+        "description": "Midsommar — Swedish summer solstice celebration",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-11-01",
+        "name": "All Saints' Day",
+        "description": "Alla helgons dag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Christmas Day",
+        "description": "Juldagen",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-26",
+        "name": "Second Day of Christmas",
+        "description": "Annandag jul",
+        "isNational": true,
+        "isOptional": false
+      }
     ]
   },
   {
     "countryCode": "NO",
     "countryName": "Norway",
     "holidays": [
-      {"date": "2025-01-01", "name": "New Year's Day", "description": "Nyttårsdag", "isNational": true, "isOptional": false},
-      {"date": "2025-04-17", "name": "Maundy Thursday", "description": "Skjærtorsdag", "isNational": true, "isOptional": false},
-      {"date": "2025-04-18", "name": "Good Friday", "description": "Langfredag", "isNational": true, "isOptional": false},
-      {"date": "2025-04-20", "name": "Easter Sunday", "description": "Første påskedag", "isNational": true, "isOptional": false},
-      {"date": "2025-04-21", "name": "Easter Monday", "description": "Andre påskedag", "isNational": true, "isOptional": false},
-      {"date": "2025-05-01", "name": "Labour Day", "description": "Arbeidernes dag", "isNational": true, "isOptional": false},
-      {"date": "2025-05-17", "name": "Constitution Day", "description": "Grunnlovsdagen — Norwegian National Day", "isNational": true, "isOptional": false},
-      {"date": "2025-05-29", "name": "Ascension Day", "description": "Kristi himmelfartsdag", "isNational": true, "isOptional": false},
-      {"date": "2025-06-08", "name": "Whit Sunday", "description": "Første pinsedag", "isNational": true, "isOptional": false},
-      {"date": "2025-06-09", "name": "Whit Monday", "description": "Andre pinsedag", "isNational": true, "isOptional": false},
-      {"date": "2025-12-25", "name": "Christmas Day", "description": "Første juledag", "isNational": true, "isOptional": false},
-      {"date": "2025-12-26", "name": "Second Day of Christmas", "description": "Andre juledag", "isNational": true, "isOptional": false}
+      {
+        "date": "2026-01-01",
+        "name": "New Year's Day",
+        "description": "Nyttårsdag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-17",
+        "name": "Maundy Thursday",
+        "description": "Skjærtorsdag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-18",
+        "name": "Good Friday",
+        "description": "Langfredag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-20",
+        "name": "Easter Sunday",
+        "description": "Første påskedag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-21",
+        "name": "Easter Monday",
+        "description": "Andre påskedag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-05-01",
+        "name": "Labour Day",
+        "description": "Arbeidernes dag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-05-17",
+        "name": "Constitution Day",
+        "description": "Grunnlovsdagen — Norwegian National Day",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-05-29",
+        "name": "Ascension Day",
+        "description": "Kristi himmelfartsdag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-06-08",
+        "name": "Whit Sunday",
+        "description": "Første pinsedag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-06-09",
+        "name": "Whit Monday",
+        "description": "Andre pinsedag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Christmas Day",
+        "description": "Første juledag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-26",
+        "name": "Second Day of Christmas",
+        "description": "Andre juledag",
+        "isNational": true,
+        "isOptional": false
+      }
     ]
   },
   {
     "countryCode": "DK",
     "countryName": "Denmark",
     "holidays": [
-      {"date": "2025-01-01", "name": "New Year's Day", "description": "Nytårsdag", "isNational": true, "isOptional": false},
-      {"date": "2025-04-17", "name": "Maundy Thursday", "description": "Skærtorsdag", "isNational": true, "isOptional": false},
-      {"date": "2025-04-18", "name": "Good Friday", "description": "Langfredag", "isNational": true, "isOptional": false},
-      {"date": "2025-04-20", "name": "Easter Sunday", "description": "Påskedag", "isNational": true, "isOptional": false},
-      {"date": "2025-04-21", "name": "Easter Monday", "description": "Anden påskedag", "isNational": true, "isOptional": false},
-      {"date": "2025-05-16", "name": "General Prayer Day", "description": "Store Bededag", "isNational": true, "isOptional": false},
-      {"date": "2025-05-29", "name": "Ascension Day", "description": "Kristi Himmelfartsdag", "isNational": true, "isOptional": false},
-      {"date": "2025-06-05", "name": "Constitution Day", "description": "Grundlovsdag — Danish National Day", "isNational": true, "isOptional": false},
-      {"date": "2025-06-08", "name": "Whit Sunday", "description": "Pinsedag", "isNational": true, "isOptional": false},
-      {"date": "2025-06-09", "name": "Whit Monday", "description": "Anden pinsedag", "isNational": true, "isOptional": false},
-      {"date": "2025-12-25", "name": "Christmas Day", "description": "Juledag", "isNational": true, "isOptional": false},
-      {"date": "2025-12-26", "name": "Second Day of Christmas", "description": "Anden juledag", "isNational": true, "isOptional": false}
+      {
+        "date": "2026-01-01",
+        "name": "New Year's Day",
+        "description": "Nytårsdag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-17",
+        "name": "Maundy Thursday",
+        "description": "Skærtorsdag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-18",
+        "name": "Good Friday",
+        "description": "Langfredag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-20",
+        "name": "Easter Sunday",
+        "description": "Påskedag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-04-21",
+        "name": "Easter Monday",
+        "description": "Anden påskedag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-05-16",
+        "name": "General Prayer Day",
+        "description": "Store Bededag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-05-29",
+        "name": "Ascension Day",
+        "description": "Kristi Himmelfartsdag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-06-05",
+        "name": "Constitution Day",
+        "description": "Grundlovsdag — Danish National Day",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-06-08",
+        "name": "Whit Sunday",
+        "description": "Pinsedag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-06-09",
+        "name": "Whit Monday",
+        "description": "Anden pinsedag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Christmas Day",
+        "description": "Juledag",
+        "isNational": true,
+        "isOptional": false
+      },
+      {
+        "date": "2026-12-26",
+        "name": "Second Day of Christmas",
+        "description": "Anden juledag",
+        "isNational": true,
+        "isOptional": false
+      }
     ]
   }
 ]
