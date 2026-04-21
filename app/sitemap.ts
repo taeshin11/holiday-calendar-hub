@@ -55,6 +55,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }
   }
 
+  // Content pages
+  const contentPages = ['about', 'how-to-use', 'privacy', 'terms'];
+  for (const locale of LOCALES) {
+    for (const page of contentPages) {
+      entries.push({
+        url: `${BASE_URL}/${locale}/${page}`,
+        lastModified: new Date(),
+        changeFrequency: 'monthly',
+        priority: 0.5,
+      });
+    }
+  }
+
   // Long weekends pages
   for (const locale of LOCALES) {
     entries.push({

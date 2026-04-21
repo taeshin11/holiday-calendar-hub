@@ -5,6 +5,8 @@ import CountryCard from '@/components/CountryCard';
 import HolidayList from '@/components/HolidayList';
 import LongWeekendCard from '@/components/LongWeekendCard';
 import { Search, Calendar, Globe, TrendingUp } from 'lucide-react';
+import { AdsterraNativeBanner } from '@/components/ads/AdsterraNativeBanner';
+import { AdsterraDisplay } from '@/components/ads/AdsterraDisplay';
 
 export const metadata: Metadata = {
   title: 'HolidayCalendarHub — Public Holidays & Long Weekend Optimizer Worldwide',
@@ -241,6 +243,8 @@ export default async function HomePage({
           </div>
         </div>
       </section>
+      <AdsterraNativeBanner />
+      <AdsterraDisplay />
     </>
   );
 }

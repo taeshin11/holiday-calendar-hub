@@ -25,16 +25,16 @@ export default function Footer({ locale }: FooterProps) {
   return (
     <footer style={{ background: '#1a1235', color: '#e9d5ff' }} className="mt-16">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Brand */}
-          <div className="md:col-span-2">
+          <div className="lg:col-span-1">
             <div className="flex items-center gap-2 mb-3">
               <Sunrise size={24} style={{ color: '#a855f7' }} />
               <span className="font-bold text-xl text-white">HolidayCalendarHub</span>
             </div>
             <p className="text-sm mb-4" style={{ color: '#c4b5fd' }}>
               Public Holidays & Long Weekend Optimizer — Plan Your Time Off Globally.
-              Track holidays for 20+ countries worldwide.
+              Track holidays for 50+ countries worldwide.
             </p>
             <div className="flex items-center gap-2 text-xs" style={{ color: '#9ca3af' }}>
               <Globe size={14} />
@@ -55,7 +55,7 @@ export default function Footer({ locale }: FooterProps) {
             </ul>
           </div>
 
-          {/* Countries */}
+          {/* Popular Countries */}
           <div>
             <h3 className="font-semibold text-white mb-3">Popular Countries</h3>
             <ul className="space-y-2 text-sm" style={{ color: '#c4b5fd' }}>
@@ -65,6 +65,17 @@ export default function Footer({ locale }: FooterProps) {
               <li><Link href={`/${locale}/countries/FR`} className="hover:text-white transition-colors">🇫🇷 France</Link></li>
               <li><Link href={`/${locale}/countries/IN`} className="hover:text-white transition-colors">🇮🇳 India</Link></li>
               <li><Link href={`/${locale}/countries/SG`} className="hover:text-white transition-colors">🇸🇬 Singapore</Link></li>
+            </ul>
+          </div>
+
+          {/* Information */}
+          <div>
+            <h3 className="font-semibold text-white mb-3">Information</h3>
+            <ul className="space-y-2 text-sm" style={{ color: '#c4b5fd' }}>
+              <li><Link href={`/${locale}/about`} className="hover:text-white transition-colors">About Us</Link></li>
+              <li><Link href={`/${locale}/how-to-use`} className="hover:text-white transition-colors">How to Use / FAQ</Link></li>
+              <li><Link href={`/${locale}/privacy`} className="hover:text-white transition-colors">Privacy Policy</Link></li>
+              <li><Link href={`/${locale}/terms`} className="hover:text-white transition-colors">Terms of Use</Link></li>
             </ul>
           </div>
         </div>

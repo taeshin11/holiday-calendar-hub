@@ -2,6 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  verification: {
+    google: "WddgcbVJsL2BGHNAje5m6DK56IcR0Mw5UOqozI2Xtrc",
+  },
   title: "HolidayCalendarHub — Public Holidays & Long Weekend Optimizer",
   description: "Find public holidays and optimize long weekends across 20+ countries worldwide.",
 };
